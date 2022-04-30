@@ -1,1 +1,4 @@
-#ProjecteIFE \nDataBase Name: projecteife
+#ProjecteIFE
+DataBase Name: projecteife
+user: admin
+pass: projecteIFE2022
